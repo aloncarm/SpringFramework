@@ -6,7 +6,7 @@ public class SalesData {
 	
 	public void display(){
 
-System.out.println("ddd3tzlil");
+System.out.println("ddd3alon1111111111111111111111");
 		System.out.println("ddd1");
 
 	}
