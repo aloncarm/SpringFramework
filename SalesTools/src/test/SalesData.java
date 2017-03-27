@@ -6,5 +6,8 @@ public class SalesData {
 	
 	public void display(){
 		System.out.println("ddd3alon");
+
+		System.out.println("ddd1");
+
 	}
 }
