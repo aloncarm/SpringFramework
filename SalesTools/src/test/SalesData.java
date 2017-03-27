@@ -7,7 +7,7 @@ public class SalesData {
 	public void display(){
 
 
-System.out.println("ddd3alon111111111111111111111551");
+System.out.println("ddd3alon111111111111111111111441");
 		System.out.println("ddd1");
 
 	}
